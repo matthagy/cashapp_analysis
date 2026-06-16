@@ -1,0 +1,11 @@
+.DS_Store/
+*.DS_Store/
+.tmp.driveupload/
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+venv/
+server/site/node_modules/
+server/site/dist/
+server/static/main.js
+*.egg-info/
